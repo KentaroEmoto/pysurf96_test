@@ -5,7 +5,7 @@ import numpy as np
 from .surfdisp96_ext import surfdisp96  # noqa
 
 MAXLAYER = 100
-MAXPERIODS = 60
+MAXPERIODS = 200
 
 
 WaveType = Literal["love", "rayleigh"]
